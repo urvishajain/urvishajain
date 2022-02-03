@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**urvihsajain/urvishajain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**urvishajain/urvishajain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 You can find me here :
 <p align="left">
@@ -16,7 +16,7 @@ Hi, I am Urvisha !
 - 🌱 I have been interning at various reputed organizations including Urban Company.
 - 👩‍💻 I find my technical interests in Problem Solving, Full-stack development,Technical writing, Machine Learning and open source !. 
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
-- 🖋️ I am an dancer and I love everything that is so classical !
+- 🖋️ I am a dancer and I love everything that is so classical !
 - 🎤 I just love public speaking and leading various communities and so i have been in various leadership positions.
 - ✈️ I am also an Aeromodeller and an avid and creative learner.
 <!-- ## Experience 
