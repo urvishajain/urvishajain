@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my GitHub Profile 👨‍💻
 
 <!--
 **urvishajain/urvishajain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-You can find me here :
-<p align="left">
-  [![Twitter Follow](https://img.shields.io/twitter/follow/urvisha101.svg?style=social)](https://twitter.com/urvisha101)
+## You can find me here :
+ [![Twitter Follow](https://img.shields.io/twitter/follow/urvisha101.svg?style=social)](https://twitter.com/urvisha101)
+<!-- <p align="left"> -->
+<!-- <a href="https://www.linkedin.com/in/urvisha-jain-10/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  -->
+ 
   <a href="https://www.linkedin.com/in/urvisha-jain-10/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:urvishajain50761@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -50,7 +52,7 @@ Hi, I am <a href="https://urvishajain.github.io/Portfolio/">Urvisha</a> !
 <!--    <img alt="Unity" src="https://img.shields.io/badge/Unity-Unity?style=for-the-badge&logo=unity&logoColor=fff&color=5C3EB8"/>  -->
  
  </a>
-</p>
+<!-- </p> -->
 
 
  
