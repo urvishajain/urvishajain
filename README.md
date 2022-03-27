@@ -5,13 +5,14 @@
 -->
 You can find me here :
 <p align="left">
+  [![Twitter Follow](https://img.shields.io/twitter/follow/urvisha101.svg?style=social)](https://twitter.com/urvisha101)
   <a href="https://www.linkedin.com/in/urvisha-jain-10/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:urvishajain50761@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
   
 
 ## About Me
-Hi, I am Urvisha !
+Hi, I am <a href="https://urvishajain.github.io/Portfolio/">Urvisha</a> !
 - 🔭 I am a rising senior with majors in Computer Science from India!.
 - 🌱 I have been interning at various reputed organizations including Urban Company.
 - 👩‍💻 I find my technical interests in Problem Solving, Full-stack development,Technical writing, Machine Learning and open source !. 
