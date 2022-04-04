@@ -17,7 +17,7 @@
 Hi, I am <a href="https://urvishajain.github.io/Portfolio/">Urvisha</a> !
 - 🔭 I am a rising senior with majors in Computer Science from India!.
 - 🌱 I have been interning at various reputed organizations including Urban Company.
-- 👩‍💻 I find my technical interests in Problem Solving, Full-stack development,Technical writing, Machine Learning and open source !. 
+- 👩‍💻 I find my technical interests in Problem Solving, Full-stack development,Technical writing and open source !. 
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
 - 🖋️ I am a dancer and I love everything that is so classical !
 - 🎤 I just love public speaking and leading various communities and so i have been in various leadership positions.
