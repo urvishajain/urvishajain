@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my GitHub Profile 👨‍💻
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Welcome to my GitHub Profile 👨‍💻
 
 <!--
 **urvishajain/urvishajain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
