@@ -6,7 +6,9 @@
 ## You can find me here :
  [![Twitter Follow](https://img.shields.io/twitter/follow/urvisha101.svg?style=social)](https://twitter.com/urvisha101)
 <!-- <p align="left"> -->
-<!-- <a href="https://www.linkedin.com/in/urvisha-jain-10/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  -->
+<!-- <a href="https://www.linkedin.com/in/urvisha-jain-10/">
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="urvisha-jain-10" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/urvisha-jain-10?trk=profile-badge">Urvisha Jain</a></div>
+              <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  -->
  
   <a href="https://www.linkedin.com/in/urvisha-jain-10/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:urvishajain50761@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
